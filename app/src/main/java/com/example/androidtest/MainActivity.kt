@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
 
     fun testmethod() {
         println("hello world")
+        println("leggo")
     }
 }
